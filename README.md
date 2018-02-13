@@ -56,6 +56,13 @@ Because Linus Torvalds is a git.
 * `git diff` to see the current changes
 * `git commit -am` will `git add` all files that have been modified. run `git status` everything that appear red and modified will get added when you do this command.
 
+
+From the git docs:
+
+```
+Running git init in an existing repository is safe. It will not overwrite things that are already there. The primary reason for rerunning git init is to pick up newly added templates.
+```
+
 ## Committing
 
 - How often should you commit?
