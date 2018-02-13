@@ -2,7 +2,7 @@
 
 int main() {
   @autoreleasepool {
-    phant
+    phantasm
   }
   return 0;
 }
