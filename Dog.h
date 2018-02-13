@@ -5,4 +5,6 @@
 
 @property NSString *hairColor;
 
+- (void)barf;
+
 @end
