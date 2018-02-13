@@ -163,3 +163,6 @@ NSMutableString is a subclass of `NSString`
 ### Links
 
 https://koenig-media.raywenderlich.com/downloads/RW-Objective-C-Cheatsheet-v-1-5.pdf
+
+
+Video from lecture: https://www.youtube.com/edit?o=U&video_id=XJJyvKw2E_Q
